@@ -1,0 +1,12 @@
+.hello {
+  background-color: #efefef;
+  border: 1px solid #dedede;
+}
+
+.active {
+    background-color: rgba(0, 50, 200, 0.5);
+}
+
+#dictation {
+    margin-top: 10px;
+}
